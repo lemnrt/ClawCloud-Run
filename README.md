@@ -18,7 +18,7 @@
 | `GH_SESSION` | Cookie（首次可为空）不用添加 |
 | `TG_BOT_TOKEN` | Telegram Bot Token |
 | `TG_CHAT_ID` | Telegram Chat ID |
-| `GitHub PAT` | GitHub Token（用于自动更新 Secret） |
+| `REPO_TOKEN` | GitHub Token（用于自动更新 Secret） |
 
 ## 流程图
 ```
